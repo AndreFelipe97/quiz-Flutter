@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'quiz.dart';
-import 'result.dart';
+import 'components/quiz.dart';
+import 'components/result.dart';
 
 void main() => runApp(DetranApp());
 
